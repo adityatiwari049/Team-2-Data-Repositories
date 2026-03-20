@@ -1,0 +1,313 @@
+"id","name","category","sub_category","exchange","contract_type","unit","tick_size","lot_size"
+1,"Gold","Hard","Precious Metal","ICE","Spot",28274,21880,845
+2,"Silver","Hard","Precious Metal","CME","Options",27478,81178,14705
+3,"Platinum","Hard","Industrial Material","ICE","Options",60687,94675,79256
+4,"Palladium","Hard","Industrial Material","CME","Spot",92077,95133,75143
+5,"Rhodium","Hard","Industrial Material","MCX","Options",22240,1287,88108
+6,"Iridium","Hard","Industrial Material","LME","Futures",55336,27892,73416
+7,"Ruthenium","Hard","Industrial Material","LME","Futures",74630,57018,72376
+8,"Osmium","Hard","Industrial Material","CME","Spot",71542,68685,8456
+9,"Gold bullion (London Good Delivery)","Hard","Precious Metal","CME","Spot",5555,77518,54615
+10,"Platinum sponge","Hard","Industrial Material","MCX","Options",7997,41531,12169
+11,"Palladium sponge","Hard","Industrial Material","ICE","Spot",68351,49446,87310
+12,"Silver granules","Hard","Precious Metal","CME","Futures",24738,63603,54513
+13,"Rhodium powder","Hard","Industrial Material","LME","Futures",90402,51769,11073
+14,"Gold dore","Hard","Precious Metal","MCX","Spot",15765,94584,95355
+15,"Platinum group metals (PGMs) concentrate","Hard","Industrial Material","ICE","Options",71386,77951,80087
+16,"Native gold nuggets","Hard","Precious Metal","CME","Futures",40743,73118,24050
+17,"Electrum (gold-silver alloy)","Hard","Precious Metal","CME","Spot",44400,47285,74908
+18,"Palladium black","Hard","Industrial Material","LME","Options",98204,34475,11665
+19,"Ruthenium trichloride","Hard","Industrial Material","MCX","Options",68790,46996,31163
+20,"Osmiridium","Hard","Industrial Material","ICE","Spot",51169,24408,37004
+21,"Copper (cathodes)","Hard","Industrial Material","ICE","Futures",42524,17822,53086
+22,"Copper concentrate","Hard","Industrial Material","MCX","Futures",79917,73680,64734
+23,"Copper rod","Hard","Industrial Material","CME","Spot",63493,25452,88856
+24,"Copper wirebar","Hard","Industrial Material","MCX","Options",84551,53374,48212
+25,"Aluminum (primary)","Hard","Industrial Material","ICE","Options",35890,97780,62109
+26,"Aluminum alloy","Hard","Industrial Material","CME","Options",15280,87373,96310
+27,"Aluminum billet","Hard","Industrial Material","MCX","Options",43242,67635,8121
+28,"Nickel (cathodes)","Hard","Industrial Material","CME","Spot",67572,56404,6224
+29,"Nickel briquettes","Hard","Industrial Material","MCX","Futures",21685,6398,38544
+30,"Nickel pig iron","Hard","Industrial Material","CME","Futures",90985,75932,92848
+31,"Lead (bullion)","Hard","Industrial Material","ICE","Options",10649,30046,98239
+32,"Lead concentrate","Hard","Industrial Material","ICE","Spot",88547,6253,26002
+33,"Zinc (slab)","Hard","Industrial Material","ICE","Futures",25431,34921,25667
+34,"Zinc concentrate","Hard","Industrial Material","MCX","Spot",22411,58967,69101
+35,"Tin","Hard","Industrial Material","MCX","Futures",97491,76982,82477
+36,"Tin ingots","Hard","Industrial Material","MCX","Options",74468,48026,67172
+37,"Aluminum scrap","Hard","Industrial Material","LME","Futures",49477,81394,84079
+38,"Copper scrap","Hard","Industrial Material","LME","Futures",78608,36963,58470
+39,"Nickel matte","Hard","Industrial Material","MCX","Spot",84975,91121,87721
+40,"Ferromolybdenum","Hard","Industrial Material","CME","Spot",93618,8255,35595
+41,"Ferrotungsten","Hard","Industrial Material","LME","Spot",81244,19949,14302
+42,"Ferrovanadium","Hard","Industrial Material","ICE","Options",83419,42466,29240
+43,"Chromium metal","Hard","Industrial Material","LME","Options",94948,53469,90635
+44,"Manganese metal","Hard","Industrial Material","CME","Futures",39751,47914,62203
+45,"Cobalt (cathodes)","Hard","Industrial Material","LME","Spot",10687,29661,15803
+46,"Molybdenum (oxide)","Hard","Industrial Material","MCX","Futures",13738,15852,64442
+47,"Tantalum","Hard","Industrial Material","CME","Spot",89289,86055,93029
+48,"Niobium","Hard","Industrial Material","CME","Spot",59691,51219,3963
+49,"Bismuth","Hard","Industrial Material","ICE","Futures",184,77192,98309
+50,"Cadmium","Hard","Industrial Material","MCX","Options",77833,88064,61066
+51,"Antimony","Hard","Industrial Material","ICE","Options",57672,17724,60353
+52,"Mercury","Hard","Industrial Material","CME","Futures",61858,93050,35104
+53,"Copper telluride","Hard","Industrial Material","MCX","Options",59892,72043,36900
+54,"Nickel sulfate","Hard","Industrial Material","LME","Futures",54336,84707,29608
+55,"Aluminum powder","Hard","Industrial Material","LME","Options",64852,8659,47644
+56,"Zinc dust","Hard","Industrial Material","ICE","Spot",46730,38115,9469
+57,"Lead oxide","Hard","Industrial Material","CME","Futures",69566,3202,52441
+58,"Tin plate","Hard","Industrial Material","CME","Spot",57826,81385,8997
+59,"Brass scrap","Hard","Industrial Material","LME","Options",30665,76221,71600
+60,"Bronze ingots","Hard","Industrial Material","CME","Futures",74297,92469,52888
+61,"Crude oil (Brent)","Hard","Energy","CME","Spot",94186,74652,29429
+62,"Crude oil (WTI)","Hard","Energy","ICE","Options",43567,19739,71242
+63,"Natural gas (Henry Hub)","Hard","Energy","CME","Futures",53051,5233,49196
+64,"Coal (thermal)","Hard","Fossil Fuel","LME","Spot",39576,33022,33926
+65,"Coal (coking/metallurgical)","Hard","Fossil Fuel","CME","Futures",12809,68097,60629
+66,"Uranium (yellowcake U3O8)","Hard","Industrial Material","CME","Options",7541,71263,93418
+67,"Uranium oxide","Hard","Industrial Material","ICE","Futures",28852,64487,89392
+68,"Bitumen","Hard","Industrial Material","MCX","Options",71694,92727,78922
+69,"Anthracite coal","Hard","Fossil Fuel","CME","Options",33875,94953,60152
+70,"Lignite","Hard","Industrial Material","ICE","Options",41528,81983,23456
+71,"Coke (metallurgical)","Hard","Industrial Material","MCX","Futures",82770,4521,10744
+72,"Petroleum coke","Hard","Industrial Material","LME","Spot",14953,37038,86906
+73,"Coal tar","Hard","Fossil Fuel","ICE","Futures",90533,12542,51017
+74,"Oil shale","Hard","Energy","MCX","Spot",3813,73102,13243
+75,"Tar sands bitumen","Hard","Industrial Material","CME","Futures",29553,94427,96968
+76,"Iron ore (fines)","Hard","Industrial Material","ICE","Spot",38050,110,93778
+77,"Iron ore (pellets)","Hard","Industrial Material","ICE","Options",57970,59636,8233
+78,"Iron ore (lump)","Hard","Industrial Material","MCX","Spot",21268,68086,96545
+79,"Bauxite","Hard","Industrial Material","MCX","Spot",13809,14044,64482
+80,"Hematite","Hard","Industrial Material","LME","Spot",45992,77511,97533
+81,"Magnetite","Hard","Industrial Material","ICE","Futures",15966,29437,34217
+82,"Ilmenite","Hard","Industrial Material","LME","Futures",47050,77036,13622
+83,"Rutile","Hard","Industrial Material","MCX","Options",84327,13521,71946
+84,"Zircon sand","Hard","Industrial Material","ICE","Spot",77693,33414,56537
+85,"Kaolin (china clay)","Hard","Industrial Material","LME","Spot",53798,7893,61405
+86,"Ball clay","Hard","Industrial Material","CME","Futures",88935,94860,21214
+87,"Bentonite","Hard","Industrial Material","ICE","Options",68672,64867,5219
+88,"Fuller's earth","Hard","Industrial Material","LME","Spot",92089,85592,79022
+89,"Talc","Hard","Industrial Material","LME","Options",59526,50973,29534
+90,"Pyrophyllite","Hard","Industrial Material","ICE","Options",70447,61506,24492
+91,"Limestone","Hard","Industrial Material","ICE","Options",91410,74573,79542
+92,"Dolomite","Hard","Industrial Material","LME","Options",11735,23448,38845
+93,"Chalk","Hard","Industrial Material","ICE","Spot",62474,15805,74482
+94,"Marble (crushed)","Hard","Industrial Material","ICE","Options",7661,82965,20866
+95,"Gypsum","Hard","Industrial Material","LME","Futures",53410,10929,80869
+96,"Anhydrite","Hard","Industrial Material","CME","Options",50830,89285,88714
+97,"Barite","Hard","Industrial Material","CME","Futures",68395,18313,72976
+98,"Fluorspar","Hard","Industrial Material","LME","Futures",62884,4902,81449
+99,"Graphite (natural)","Hard","Industrial Material","MCX","Options",67880,89337,90746
+100,"Magnesite","Hard","Industrial Material","ICE","Futures",14893,33909,9931
+101,"Perlite","Hard","Industrial Material","LME","Futures",17804,23762,67196
+102,"Vermiculite","Hard","Industrial Material","ICE","Spot",34226,45538,73435
+103,"Pumice","Hard","Industrial Material","MCX","Spot",66963,59115,40790
+104,"Diatomite","Hard","Industrial Material","CME","Futures",73017,37708,33067
+105,"Feldspar","Hard","Industrial Material","CME","Futures",86451,3834,83528
+106,"Nepheline syenite","Hard","Industrial Material","MCX","Options",60865,70715,45707
+107,"Mica","Hard","Industrial Material","ICE","Options",26495,81924,83730
+108,"Asbestos (chrysotile)","Hard","Industrial Material","ICE","Options",24479,78035,73710
+109,"Wollastonite","Hard","Industrial Material","ICE","Futures",6711,40704,21025
+110,"Zeolites","Hard","Industrial Material","LME","Options",24141,44284,51771
+111,"Garnet (abrasive)","Hard","Industrial Material","MCX","Futures",95558,32010,67205
+112,"Kyanite","Hard","Industrial Material","ICE","Spot",70236,59220,12269
+113,"Sillimanite","Hard","Industrial Material","LME","Futures",36003,29248,22953
+114,"Andalusite","Hard","Industrial Material","CME","Options",97677,11012,43194
+115,"Dumortierite","Hard","Industrial Material","ICE","Futures",15313,19267,2535
+116,"Boron (borax)","Hard","Industrial Material","CME","Spot",18835,13657,73075
+117,"Colemanite","Hard","Industrial Material","MCX","Options",14693,5244,74407
+118,"Ulexite","Hard","Industrial Material","LME","Spot",45060,90247,57685
+119,"Lithium (spodumene)","Hard","Industrial Material","CME","Futures",78208,80719,35524
+120,"Lithium carbonate","Hard","Industrial Material","CME","Options",24508,18793,38075
+121,"Lithium hydroxide","Hard","Industrial Material","LME","Options",39992,57717,15360
+122,"Potash (potassium chloride)","Hard","Industrial Material","CME","Futures",81269,88408,65753
+123,"Sylvite","Hard","Industrial Material","ICE","Spot",21936,63452,89144
+124,"Rock salt (halite)","Hard","Industrial Material","ICE","Options",85134,14335,79135
+125,"Phosphate rock","Hard","Industrial Material","LME","Options",67412,8214,48300
+126,"Neodymium","Hard","Industrial Material","ICE","Futures",49486,8362,37098
+127,"Praseodymium","Hard","Industrial Material","MCX","Options",49009,76769,66846
+128,"Dysprosium","Hard","Industrial Material","LME","Futures",17661,39634,29896
+129,"Terbium","Hard","Industrial Material","ICE","Options",91181,74869,65899
+130,"Europium","Hard","Industrial Material","CME","Futures",70557,66579,54711
+131,"Yttrium","Hard","Industrial Material","ICE","Spot",42977,44239,72734
+132,"Lanthanum","Hard","Industrial Material","MCX","Spot",97001,70579,91989
+133,"Cerium","Hard","Industrial Material","ICE","Spot",44558,15024,27439
+134,"Gadolinium","Hard","Industrial Material","ICE","Options",95696,75129,30356
+135,"Samarium","Hard","Industrial Material","CME","Options",51724,71420,53624
+136,"Scandium","Hard","Industrial Material","ICE","Options",66968,42941,38873
+137,"Light rare earth concentrate","Hard","Industrial Material","ICE","Spot",44427,54785,40131
+138,"Heavy rare earth concentrate","Hard","Industrial Material","MCX","Options",26926,5549,26008
+139,"Monazite","Hard","Industrial Material","CME","Futures",56669,30444,79059
+140,"Bastnasite","Hard","Industrial Material","CME","Futures",32198,5907,57247
+141,"Xenotime","Hard","Industrial Material","LME","Options",15556,17684,34324
+142,"Graphite (flake)","Hard","Industrial Material","CME","Spot",59228,44007,94148
+143,"Vanadium pentoxide","Hard","Industrial Material","ICE","Futures",56079,77957,63920
+144,"Gallium","Hard","Industrial Material","ICE","Spot",55453,82632,73172
+145,"Germanium","Hard","Industrial Material","ICE","Spot",81336,6624,52411
+146,"Indium","Hard","Industrial Material","ICE","Spot",32122,49600,25801
+147,"Hafnium","Hard","Industrial Material","CME","Spot",44491,75928,96782
+148,"Rhenium","Hard","Industrial Material","CME","Options",14588,56003,24642
+149,"Tellurium","Hard","Industrial Material","CME","Spot",12891,49419,28277
+150,"Selenium","Hard","Industrial Material","ICE","Spot",65417,47550,87019
+151,"Lithium brine concentrate","Hard","Industrial Material","LME","Futures",34703,25735,60717
+152,"Cobalt hydroxide","Hard","Industrial Material","LME","Options",77735,76064,45607
+153,"Nickel laterite ore","Hard","Industrial Material","ICE","Spot",52687,37778,5421
+154,"Graphite anode material","Hard","Industrial Material","CME","Futures",84536,69130,7999
+155,"Neodymium-iron-boron magnets (precursor)","Hard","Industrial Material","CME","Options",79793,37823,75919
+156,"Diamond (industrial)","Hard","Gemstone","MCX","Futures",76075,63868,63514
+157,"Diamond (gem)","Hard","Gemstone","LME","Spot",6166,53736,63427
+158,"Ruby","Hard","Gemstone","MCX","Futures",81713,52428,18307
+159,"Sapphire","Hard","Gemstone","MCX","Spot",96455,76638,69249
+160,"Emerald","Hard","Industrial Material","ICE","Options",41447,86315,20600
+161,"Alexandrite","Hard","Industrial Material","LME","Options",97529,30345,45856
+162,"Spinel","Hard","Industrial Material","ICE","Spot",46402,12190,80701
+163,"Peridot","Hard","Industrial Material","CME","Futures",56640,85513,9344
+164,"Aquamarine","Hard","Industrial Material","LME","Futures",64112,34311,19114
+165,"Tourmaline","Hard","Industrial Material","LME","Futures",3897,646,45359
+166,"Topaz","Hard","Industrial Material","MCX","Spot",60785,45017,80859
+167,"Zircon (gem)","Hard","Industrial Material","ICE","Futures",97058,24854,90316
+168,"Opal","Hard","Industrial Material","LME","Spot",34901,35954,60849
+169,"Jadeite","Hard","Industrial Material","LME","Options",79446,79167,53435
+170,"Nephrite","Hard","Industrial Material","MCX","Options",1633,5539,46997
+171,"Amber","Hard","Industrial Material","MCX","Options",45235,35175,18928
+172,"Labradorite","Hard","Industrial Material","MCX","Options",3398,91958,52511
+173,"Tanzanite","Hard","Industrial Material","CME","Spot",68636,12463,95528
+174,"Tsavorite garnet","Hard","Industrial Material","LME","Options",87608,95732,73376
+175,"Demantoid garnet","Hard","Industrial Material","LME","Spot",88227,60936,68452
+176,"Steel (scrap)","Hard","Industrial Material","MCX","Options",76875,27135,46290
+177,"Stainless steel scrap","Hard","Industrial Material","CME","Options",7135,69273,20171
+178,"Ferrochrome","Hard","Industrial Material","LME","Spot",60023,82936,92023
+179,"Ferrosilicon","Hard","Industrial Material","LME","Futures",47572,47437,72376
+180,"Silicomanganese","Hard","Industrial Material","CME","Options",5698,48504,22283
+181,"Ferrosilicon manganese","Hard","Industrial Material","MCX","Futures",98537,13677,7886
+182,"Aluminum-lithium alloy","Hard","Industrial Material","MCX","Spot",11194,77390,58777
+183,"Titanium sponge","Hard","Industrial Material","CME","Options",458,75681,7105
+184,"Titanium dioxide (rutile)","Hard","Industrial Material","ICE","Spot",62515,38087,19835
+185,"Zirconium","Hard","Industrial Material","MCX","Spot",49089,28608,35667
+186,"Tungsten (concentrate)","Hard","Industrial Material","LME","Options",94715,18396,53620
+187,"Tungsten carbide","Hard","Industrial Material","MCX","Options",27803,25762,82146
+188,"Molybdenum disulfide","Hard","Industrial Material","CME","Futures",54238,11177,72361
+189,"Columbite","Hard","Industrial Material","MCX","Options",43469,28750,15281
+190,"Tantalite","Hard","Industrial Material","ICE","Options",71066,16014,63058
+191,"Scheelite","Hard","Industrial Material","LME","Spot",42584,28902,36024
+192,"Wolframite","Hard","Industrial Material","LME","Spot",96379,6101,79670
+193,"Cassiterite","Hard","Industrial Material","CME","Options",72859,28704,87481
+194,"Galena (lead ore)","Hard","Industrial Material","CME","Futures",693,14088,58356
+195,"Sphalerite (zinc ore)","Hard","Industrial Material","ICE","Spot",50326,30042,10336
+196,"Chalcopyrite (copper ore)","Hard","Industrial Material","CME","Futures",83538,9666,53757
+197,"Pentlandite (nickel ore)","Hard","Industrial Material","ICE","Spot",74678,2338,2506
+198,"Bauxite residue (red mud)","Hard","Industrial Material","LME","Spot",22436,85604,23057
+199,"Nickel pig iron (NPI)","Hard","Industrial Material","ICE","Spot",77207,33989,10243
+200,"Direct reduced iron (DRI)","Hard","Industrial Material","MCX","Options",45335,70603,2811
+201,"Hot briquetted iron (HBI)","Hard","Industrial Material","ICE","Spot",42921,57301,84363
+202,"Pig iron","Hard","Industrial Material","ICE","Futures",55929,36618,93630
+203,"Steel billets","Hard","Industrial Material","LME","Spot",53570,65448,24018
+204,"Steel slabs","Hard","Industrial Material","CME","Spot",9036,41959,416
+205,"Aluminum extrusions","Hard","Industrial Material","LME","Options",70339,74971,73259
+206,"Sand (silica)","Hard","Industrial Material","MCX","Options",74823,55731,69090
+207,"Gravel","Hard","Industrial Material","MCX","Futures",84598,63508,85959
+208,"Crushed stone","Hard","Industrial Material","MCX","Spot",44258,84977,13369
+209,"Sandstone","Hard","Industrial Material","ICE","Options",54016,95650,74294
+210,"Quartzite","Hard","Industrial Material","MCX","Spot",55826,51003,2083
+211,"Granite","Hard","Industrial Material","ICE","Spot",38510,32502,88144
+212,"Basalt","Hard","Industrial Material","CME","Spot",94844,62665,78290
+213,"Andesite","Hard","Industrial Material","ICE","Futures",67208,78247,21083
+214,"Construction sand","Hard","Industrial Material","ICE","Spot",36265,16721,19863
+215,"Foundry sand","Hard","Industrial Material","LME","Futures",16136,4842,58801
+216,"Glass sand","Hard","Industrial Material","MCX","Spot",34497,97507,95900
+217,"Filter sand","Hard","Industrial Material","ICE","Spot",50829,34722,10909
+218,"Clay (common)","Hard","Industrial Material","MCX","Futures",66396,89642,48854
+219,"Shale","Hard","Industrial Material","CME","Options",41761,43089,67682
+220,"Slate","Hard","Industrial Material","CME","Futures",38531,61508,95604
+221,"Paving stones","Hard","Industrial Material","MCX","Spot",94639,98357,90087
+222,"Dimension stone","Hard","Industrial Material","LME","Spot",80032,20357,11471
+223,"Cement clinker","Hard","Industrial Material","LME","Options",46722,66854,36491
+224,"Portland cement","Hard","Industrial Material","MCX","Options",55361,77817,8520
+225,"Aggregates (river)","Hard","Industrial Material","CME","Spot",38120,61966,78380
+226,"Aggregates (crushed)","Hard","Industrial Material","LME","Spot",66382,90584,13006
+227,"Riprap","Hard","Industrial Material","LME","Options",39045,36521,51350
+228,"Ballast","Hard","Industrial Material","ICE","Options",8085,31159,63317
+229,"Scoria","Hard","Industrial Material","ICE","Options",1858,66515,44574
+230,"Tuff","Hard","Industrial Material","ICE","Spot",7966,35253,53092
+231,"Pozzolan","Hard","Industrial Material","MCX","Futures",61744,3525,43804
+232,"Clinker ash","Hard","Industrial Material","MCX","Options",60653,65469,55563
+233,"Fly ash","Hard","Industrial Material","ICE","Spot",13001,61045,10276
+234,"Bottom ash","Hard","Industrial Material","ICE","Options",63555,65436,77663
+235,"Slag (blast furnace)","Hard","Industrial Material","LME","Spot",34059,3459,63811
+236,"Slag (steel)","Hard","Industrial Material","LME","Options",67560,34538,72344
+237,"Molding sand","Hard","Industrial Material","ICE","Options",56799,52777,29346
+238,"Core sand","Hard","Industrial Material","LME","Options",58547,78515,94628
+239,"Olivine sand","Hard","Industrial Material","LME","Futures",27429,75076,38327
+240,"Chromite sand","Hard","Industrial Material","MCX","Options",66080,50047,39808
+241,"Staurolite","Hard","Industrial Material","CME","Futures",91241,58202,22495
+242,"Ilmenite sand","Hard","Industrial Material","ICE","Futures",88450,49470,1333
+243,"Magnetite sand","Hard","Industrial Material","LME","Spot",6139,3764,51697
+244,"Hematite fines","Hard","Industrial Material","ICE","Spot",19974,46271,58386
+245,"Goethite","Hard","Industrial Material","LME","Spot",46300,13166,22356
+246,"Limonite","Hard","Industrial Material","LME","Futures",83616,88444,22896
+247,"Siderite","Hard","Industrial Material","MCX","Spot",51297,90234,36979
+248,"Taconite pellets","Hard","Industrial Material","ICE","Futures",17156,41018,73054
+249,"Fluxstone (limestone)","Hard","Industrial Material","ICE","Spot",30318,64861,60299
+250,"Live cattle","Soft","Agriculture","ICE","Options",15909,10068,55598
+251,"Feeder cattle","Soft","Agriculture","ICE","Spot",28002,4752,14000
+252,"Lean hogs","Soft","Agriculture","NCDEX","Futures",14306,36347,87062
+253,"Pork bellies","Soft","Agriculture","MCX","Spot",74543,79137,43205
+254,"Wheat (Chicago SRW)","Soft","Grain","ICE","Options",73657,19928,41572
+255,"Wheat (Kansas HRW)","Soft","Grain","NCDEX","Options",7641,32065,80042
+256,"Corn (yellow)","Soft","Grain","NCDEX","Options",52278,90124,2709
+257,"Barley (malting)","Soft","Agriculture","NCDEX","Options",95365,26356,50677
+258,"Oats","Soft","Agriculture","CME","Options",49615,68466,68907
+259,"Rye","Soft","Agriculture","MCX","Spot",29746,83475,10820
+260,"Millet","Soft","Agriculture","MCX","Options",91273,88830,71675
+261,"Soybeans","Soft","Agriculture","MCX","Spot",66666,51770,30706
+262,"Soybean oil","Soft","Agriculture","NCDEX","Options",85107,75674,87555
+263,"Palm oil","Soft","Agriculture","ICE","Futures",74289,67019,46001
+264,"Mustard seeds","Soft","Agriculture","MCX","Futures",71298,49164,71673
+265,"Sugar (raw)","Soft","Agriculture","ICE","Options",68381,62986,79144
+266,"Honey","Soft","Agriculture","CME","Spot",8815,90367,21408
+267,"Molasses","Soft","Agriculture","CME","Futures",57716,83394,7084
+268,"Milk (Class III)","Soft","Dairy","ICE","Spot",75932,10364,20828
+269,"Butter","Soft","Dairy","NCDEX","Futures",22861,2756,87437
+270,"Cheese (Cheddar)","Soft","Agriculture","MCX","Spot",32437,91765,71891
+271,"Coffee (Arabica)","Soft","Beverage","ICE","Options",89677,20394,85944
+272,"Coffee (Robusta)","Soft","Beverage","CME","Futures",40866,75037,50259
+273,"Cocoa beans","Soft","Agriculture","CME","Futures",11897,58532,25709
+274,"Tea (black)","Soft","Beverage","MCX","Futures",74862,57854,84629
+275,"Tea (green)","Soft","Beverage","NCDEX","Futures",66474,70021,56283
+276,"Oranges","Soft","Agriculture","NCDEX","Spot",65731,80546,90338
+277,"Apples","Soft","Agriculture","NCDEX","Options",5074,17112,51235
+278,"Bananas","Soft","Agriculture","ICE","Options",28241,8871,41348
+279,"Mangoes","Soft","Agriculture","NCDEX","Futures",34382,88093,77762
+280,"Papayas","Soft","Agriculture","MCX","Futures",95686,53579,81101
+281,"Potatoes","Soft","Agriculture","NCDEX","Spot",76673,83034,14229
+282,"Onions","Soft","Agriculture","ICE","Spot",25167,88616,67360
+283,"Tomatoes","Soft","Agriculture","ICE","Spot",76967,92116,31795
+284,"Cabbage","Soft","Agriculture","ICE","Spot",59169,86615,96190
+285,"Carrots","Soft","Agriculture","NCDEX","Options",84149,92981,41264
+286,"Cotton (upland)","Soft","Fiber","NCDEX","Options",21971,17114,29006
+287,"Wool","Soft","Fiber","ICE","Futures",50446,51973,45572
+288,"Silk","Soft","Agriculture","MCX","Spot",89748,83552,51944
+289,"Jute","Soft","Agriculture","CME","Futures",45474,45200,53223
+290,"Rubber (natural)","Soft","Agriculture","MCX","Futures",39008,95702,11524
+291,"Almonds","Soft","Agriculture","MCX","Futures",92677,69145,56577
+292,"Cashews","Soft","Agriculture","MCX","Futures",61763,57521,54643
+293,"Pistachios","Soft","Agriculture","ICE","Spot",93177,54252,94435
+294,"Lentils","Soft","Agriculture","ICE","Options",29217,6830,6673
+295,"Chickpeas","Soft","Agriculture","CME","Options",93063,8386,23466
+296,"Black pepper","Soft","Agriculture","CME","Options",44965,86587,3795
+297,"Turmeric","Soft","Agriculture","ICE","Spot",84430,32440,3513
+298,"Cardamom","Soft","Agriculture","MCX","Futures",42423,53510,7274
+299,"Cinnamon","Soft","Agriculture","MCX","Spot",92337,89242,81143
+300,"Cloves","Soft","Agriculture","MCX","Spot",66395,1947,62351
+301,"Timber (lumber)","Soft","Agriculture","MCX","Futures",53501,59645,74793
+302,"Plywood","Soft","Agriculture","NCDEX","Spot",63714,8809,41235
+303,"Logs (hardwood)","Soft","Agriculture","CME","Spot",44068,7997,10868
+304,"Logs (softwood)","Soft","Agriculture","MCX","Spot",83634,3904,36610
+305,"Eggs","Soft","Agriculture","NCDEX","Futures",67872,88402,67720
+306,"Leather (hide)","Soft","Agriculture","CME","Spot",1295,4021,79740
+307,"Tallow","Soft","Agriculture","CME","Spot",44845,22528,77909
+308,"Lard","Soft","Agriculture","CME","Futures",70251,4518,8573
+309,"Flowers (cut)","Soft","Agriculture","MCX","Spot",79052,52219,42360
+310,"Ornamental plants","Soft","Agriculture","ICE","Futures",37484,66091,85842
+311,"Seeds (vegetable)","Soft","Agriculture","NCDEX","Futures",90852,66984,6109
+312,"Forage crops","Soft","Agriculture","CME","Spot",22934,3607,5033
